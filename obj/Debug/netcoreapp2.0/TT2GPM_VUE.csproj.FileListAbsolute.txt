@@ -1,0 +1,11 @@
+D:\Backup_Desktop\Program_Dev\vue_dev\TT2GPM_VUE\bin\Debug\netcoreapp2.0\TT2GPM_VUE.deps.json
+D:\Backup_Desktop\Program_Dev\vue_dev\TT2GPM_VUE\bin\Debug\netcoreapp2.0\TT2GPM_VUE.runtimeconfig.json
+D:\Backup_Desktop\Program_Dev\vue_dev\TT2GPM_VUE\bin\Debug\netcoreapp2.0\TT2GPM_VUE.runtimeconfig.dev.json
+D:\Backup_Desktop\Program_Dev\vue_dev\TT2GPM_VUE\bin\Debug\netcoreapp2.0\TT2GPM_VUE.dll
+D:\Backup_Desktop\Program_Dev\vue_dev\TT2GPM_VUE\bin\Debug\netcoreapp2.0\TT2GPM_VUE.pdb
+D:\Backup_Desktop\Program_Dev\vue_dev\TT2GPM_VUE\obj\Debug\netcoreapp2.0\TT2GPM_VUE.csproj.CoreCompileInputs.cache
+D:\Backup_Desktop\Program_Dev\vue_dev\TT2GPM_VUE\obj\Debug\netcoreapp2.0\TT2GPM_VUE.AssemblyInfoInputs.cache
+D:\Backup_Desktop\Program_Dev\vue_dev\TT2GPM_VUE\obj\Debug\netcoreapp2.0\TT2GPM_VUE.AssemblyInfo.cs
+D:\Backup_Desktop\Program_Dev\vue_dev\TT2GPM_VUE\obj\Debug\netcoreapp2.0\TT2GPM_VUE.dll
+D:\Backup_Desktop\Program_Dev\vue_dev\TT2GPM_VUE\obj\Debug\netcoreapp2.0\TT2GPM_VUE.pdb
+D:\Backup_Desktop\Program_Dev\vue_dev\TT2GPM_VUE\obj\Debug\netcoreapp2.0\TT2GPM_VUE.csprojAssemblyReference.cache
